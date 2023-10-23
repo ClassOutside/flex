@@ -1,7 +1,7 @@
 # Fork of @coconut-xr/flex
 Forked for the purpose of supporting offline use. 
 
-# @coconut-xr/flex
+@coconut-xr/flex
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/coconut-xr/flex/.github/workflows/deploy.yml)](https://github.com/coconut-xr/flex/actions)&nbsp;
 [![Npm package version](https://badgen.net/npm/v/@coconut-xr/flex)](https://npmjs.com/package/@coconut-xr/flex)&nbsp;
